@@ -38,7 +38,7 @@ pword = driver.find_element_by_id('session_password')
 # tag used here.
   
 # Enter Your Password
-pword.send_keys("73s95dFG")        
+pword.send_keys("")        
   
 # Clicking on the log in button
 # Format (syntax) of writing XPath --> 
